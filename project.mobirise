@@ -1,6 +1,6 @@
 {
   "settings": {
-    "name": "Волшебство-clone",
+    "name": "Волшебство forBunny",
     "currentPage": "index.html",
     "theme": {
       "name": "mobirise4",
@@ -42,7 +42,7 @@
         "url": "https://fonts.googleapis.com/css?family=Pacifico:400"
       }
     ],
-    "favicon": "",
+    "favicon": "@PROJECT_PATH@/assets/images/1-128x128.png",
     "noImageResize": "",
     "cookiesAlert": "",
     "gdpr": "",
@@ -55,7 +55,7 @@
     "index.html": {
       "settings": {
         "main": true,
-        "title": "Home",
+        "title": "Home for Bunny",
         "meta_descr": "",
         "header_custom": "",
         "footer_custom": "",
